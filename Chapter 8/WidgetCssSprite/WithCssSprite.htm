@@ -1,0 +1,39 @@
+﻿<html>
+<head>
+    <title>CSS Sprite Test Page</title>
+    <link href="images/CssSprite/star.css" rel="stylesheet" type="text/css" />
+</head>
+<script>
+function AddRating(rating)
+{
+        var oR =  parseInt(rating);
+        var rW = oR * 30;         
+        var sH = "";
+        
+        sH +=('<DIV class="rateblock" title="Current Rating">');
+        sH +=('<UL class="addRating" STYLE="padding:0 0 0 0;border:0;margin:0 0 0 0;">');
+	    sH +=('<LI class="current-rating" style="WIDTH: '+ rW+'px;padding:0 0 0 0;"></LI>');
+	    sH +=('</UL><center><FONT face="arial" size="1">'+oR+' votes </font></center>');
+	    sH +=('</UL><center>');
+	    document.getElementById('addrating_star_info').innerHTML = sH;
+	    alert("You Rated: " + oR);
+ }
+</script>
+<body>
+<div>
+	<center><h4>Rating Widget with CSS Sprite</h4>
+	    Single Image for multiple stars<br /><br />
+	    <div id="addrating_star_info" style="height:60px;">
+<UL class="addRating" STYLE="padding:0 0 0 0;border:0;margin:0 0 0 0;">
+<LI class="currentRating" style="WIDTH: 150px;padding:0 0 0 0;"></LI>
+<LI><A class="r1-unit" href="javascript:AddRating(1);" >1</A></LI>
+<LI><A class="r2-unit" href="javascript:AddRating(2);" >2</A></LI>
+<LI><A class="r3-unit" href="javascript:AddRating(3);" >3</A></LI>
+<LI><A class="r4-unit" href="javascript:AddRating(4);" >4</A></LI>
+<LI><A class="r5-unit" href="javascript:AddRating(5);">5</A></LI>
+</UL></div>
+	</center>
+	</div>
+
+</body>
+</html>

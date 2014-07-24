@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WidgetDesign", ".", "{72E461FD-5CE8-4308-A65B-AE80990CE877}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/WidgetDesign"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Writing\WebWidgets\Final\chapter6\WidgetDesign\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WidgetDesign\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WidgetDesign"
+		Release.AspNetCompiler.PhysicalPath = "D:\Writing\WebWidgets\Final\chapter6\WidgetDesign\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WidgetDesign\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57399"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E461FD-5CE8-4308-A65B-AE80990CE877}.Debug|.NET.ActiveCfg = Debug|.NET
+		{72E461FD-5CE8-4308-A65B-AE80990CE877}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WidgetCSSSprite", ".", "{BB05FF40-1D24-4BC9-851F-7991BC66DAB1}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/WidgetCSSSprite"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Writing\WebWidgets\Final\chapter8\WidgetCSSSprite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WidgetCSSSprite\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WidgetCSSSprite"
+		Release.AspNetCompiler.PhysicalPath = "D:\Writing\WebWidgets\Final\chapter8\WidgetCSSSprite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WidgetCSSSprite\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62640"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB05FF40-1D24-4BC9-851F-7991BC66DAB1}.Debug|.NET.ActiveCfg = Debug|.NET
+		{BB05FF40-1D24-4BC9-851F-7991BC66DAB1}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

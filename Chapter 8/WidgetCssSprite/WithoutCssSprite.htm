@@ -1,0 +1,28 @@
+﻿<script language="Javascript" type="text/javascript" src="Rating.js"></script>
+<script language="Javascript" type="text/javascript">
+var id = 0;
+var rating = 0;
+savedRatings[id] = rating;
+function SaveRating(id, ratingType, ratingValue){
+alert("You Rated: " + ratingValue);
+}
+</script>
+<body topmargin="0" leftmargin="0">
+<div>
+	<center><h4>Rating Widget without CSS Sprite</h4>
+	    Multiple Images for multiple stars<br /><br />
+	<TABLE height="26" cellSpacing="0" cellPadding="0" width="240" border="0">
+		<TR vAlign="top">
+			<TD width="240" height="26">
+				<table width="240" border="0" cellspacing="0" cellpadding="0" bgcolor='#f7f5f5' height="26">
+					<tr>
+						<td align="left" height="26" width="65"><script language="Javascript">DisplayStars(id, rating);</script></td>
+						<td align="left" width="66"><script language="Javascript">DisplayMsg(id);</script></td>
+					</tr>
+				</table>
+			</TD>
+		</TR>
+	</TABLE>
+	</center>
+	</div>
+</body>

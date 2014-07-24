@@ -1,0 +1,23 @@
+﻿<html>
+	<head>
+		<title>Optimized Rating Widget</title>
+	</head>
+	<BODY>
+	<center><h4>Optimized Widget</h4>
+	    Image, CSS, and JavaScript files are reduced<br /><br />
+		<!-- Begin AddRating.com widget code -->
+        <script type='text/javascript'>
+        WBgColor="";
+        WFgColor="";
+        WidgetURL="http://addratings.com";
+        WidgetTitle =document.title;
+        WidgetStarType =3;// choose from 0-4 0:yellow / 1:Orange / 2:Green / 3:Blue / 4:Black
+        document.write('<link rel="stylesheet" type="text/css" href="images/star.css">');
+        document.write('<div id="addrating_star_info" style="height:60px;"></div>');
+        document.write('<scr'+'ipt type="text/javascript" src="createRating.js"></scr' + 'ipt>'); 
+        document.write('<scr'+'ipt text="text/javascript" src="generateJSON.aspx?callback=addRatingCallback&url='+ escape(WidgetURL) +'&title=' + WidgetTitle+'"></scr' + 'ipt>');
+        </script>
+		<!-- End AddRating.com widget code -->
+		</center>
+	</BODY>
+</html>

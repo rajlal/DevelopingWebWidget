@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WidgetOptimized", ".", "{EBBC3F3C-78A1-48B8-9D35-823308E01FC9}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/WidgetOptimized"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Writing\WebWidgets\Final\chapter8\WidgetOptimized\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WidgetOptimized\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WidgetOptimized"
+		Release.AspNetCompiler.PhysicalPath = "D:\Writing\WebWidgets\Final\chapter8\WidgetOptimized\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WidgetOptimized\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51032"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBBC3F3C-78A1-48B8-9D35-823308E01FC9}.Debug|.NET.ActiveCfg = Debug|.NET
+		{EBBC3F3C-78A1-48B8-9D35-823308E01FC9}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

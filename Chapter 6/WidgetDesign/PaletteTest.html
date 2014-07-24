@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Color Palette for Rating Widget</title>
+      <script src="Palette.js" type="text/javascript"></script>
+</head>
+<body>
+<center>
+<h2>Color Palette for Rating Widget</h2>
+<table cellspacing="5" cellspacing="5" border =0 ID="Table1">
+	<tr><td colspan=2><font size=4><b>Color palette</b></font></td></tr>
+<!--Create Table for Web safe colors -->
+		<tr><td colspan=2>
+			<div id="colorTable">
+				<script type="text/javascript">
+					document.write(createTable());
+				</script>
+			</div>
+		</td></tr>
+<!--On click set the colors -->
+	<tr>
+		<td><input type="radio" name="colorControl" checked="true" value="fore" onClick="setColorType('fore');">Set foreground color</input></td>
+		<td><input type="radio" name="colorControl" value="back" onClick="setColorType('back');">Set background color</input></td>
+	</tr>
+
+	<tr>
+		<td id="foreground">Foreground: #000000</td>
+		<td id="background">Background: #ffffff</td>
+	</tr>
+
+<!--The content block for WYSIWYG -->
+	<tr>
+		<td colspan =2>
+		<div id="testArea" align =center style="padding: 5px;">
+		<h2>Customization is important</h2>
+		</div>
+		</td>
+	</tr>
+</table>
+</center>
+</body>
+</html>

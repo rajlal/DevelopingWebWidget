@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WidgetInPageAjax", ".", "{21B9FF70-5F51-4DFF-9303-72CCD9158589}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/WidgetInPageAjax"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Writing\WebWidgets\Final\chapter5\WidgetInPageAjax\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WidgetInPageAjax\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WidgetInPageAjax"
+		Release.AspNetCompiler.PhysicalPath = "D:\Writing\WebWidgets\Final\chapter5\WidgetInPageAjax\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WidgetInPageAjax\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58781"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B9FF70-5F51-4DFF-9303-72CCD9158589}.Debug|.NET.ActiveCfg = Debug|.NET
+		{21B9FF70-5F51-4DFF-9303-72CCD9158589}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

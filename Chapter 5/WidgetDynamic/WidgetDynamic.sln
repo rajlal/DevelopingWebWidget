@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WidgetDynamic", ".", "{F3B2DBCE-4E80-45D0-B367-09062B76AE5C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/WidgetDynamic"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Writing\WebWidgets\Final\chapter5\WidgetDynamic\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WidgetDynamic\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WidgetDynamic"
+		Release.AspNetCompiler.PhysicalPath = "D:\Writing\WebWidgets\Final\chapter5\WidgetDynamic\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WidgetDynamic\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49274"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3B2DBCE-4E80-45D0-B367-09062B76AE5C}.Debug|.NET.ActiveCfg = Debug|.NET
+		{F3B2DBCE-4E80-45D0-B367-09062B76AE5C}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
