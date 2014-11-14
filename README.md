@@ -3,6 +3,10 @@ Source Code: Developing Web Widget
 
 Code: Developing Web Widget with HTML, CSS, JSON and AJAX: A Complete Guide to Web Widget
 
+
+![Developing Web Widget with HTML, CSS, JSON and AJAX](http://widgets-gadgets.com/wp-content/uploads/2010/05/bookfront.bmp)
+<http://www.amazon.com/Developing-Widget-HTML-JSON-AJAX/dp/1450502288/>
+
 THE HANDS-ON, TUTORIAL-BASED GUIDE TO BUILDING SECURE AND HIGH PERFORMANT WEB WIDGET 
 
 Get up to speed for developing web widget with design guidelines, standard practices, security measures and techniques for high performance. 
