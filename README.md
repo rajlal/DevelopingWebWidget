@@ -12,26 +12,38 @@ Developing Web Widget with HTML, CSS, JSON and Ajax is the first guide to creati
 Section I – Web Widget
 =======================================
 Chapter 1: Defining Web Widget
+
 Chapter 2: Knowing Widget Architecture
+
 Chapter 3: Designing an Effective Web Widget
+
 Chapter 4: Understanding the Technology behind Web Widget
+
 Chapter 5: Creating Hello World with HTML, CSS & JavaScript download
+
 
 =======================================
 Section II – Developing a Web Widget for Prime Time
 =======================================
 Chapter 6: Developing a Rating Widget with JSON and AJAX download
+
 Chapter 7: Understanding Customization and Layout of a Web Widget download
+
 Chapter 8: Securing the Widget at Client and Server Side download
+
 Chapter 9: Making a High Performance Scalable Widget download
+
 
 =======================================
 Section III – Advanced Web Widgets
 =======================================
 Chapter 10: Creating RSS Widget with Ajax, Proxy Server and Feed APIs
+
 Chapter 11: Developing Widget using Facebook APIs and UI Framework
+
 
 =======================================
 Section IV
 =======================================
 Appendix: Understanding Business Model of Web Widget
+
